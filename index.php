@@ -194,7 +194,9 @@ if (isset($_POST['submit'])) {
   <div class="footer">
     <div class="footer-content">
       <div class="footer-left">
-        <h3>About Us</h3>
+        <h3>Alok Us</h3>
+
+
         <p>
           Butazzo's serves gourmet, hearth-baked pizza and fresh,
           artisan salads along with craft beer and value-priced wine.
